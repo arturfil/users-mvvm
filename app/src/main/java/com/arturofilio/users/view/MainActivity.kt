@@ -1,7 +1,8 @@
-package com.arturofilio.users
+package com.arturofilio.users.view
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.arturofilio.users.R
 
 class MainActivity : AppCompatActivity() {
 
