@@ -23,4 +23,8 @@ class UsersService {
         return api.getUsers()
     }
 
+    fun createUser(): Single<User> {
+        return api.createUser()
+    }
+
 }
